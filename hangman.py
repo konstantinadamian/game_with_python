@@ -1,8 +1,3 @@
-#Create a hanger game.
-# Give the user a number of attempts to guess the letters of a secret word.
-# If the user guesses a wrong letter, their attempts are reduced.
-# If he guesses all the letters correctly before running out of tries, he wins.
-
 retries = 3
 magic_word = 'marshmallow'
 letters = []
